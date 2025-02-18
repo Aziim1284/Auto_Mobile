@@ -15,7 +15,7 @@ const contactData = [
   {
     label: "Phone",
     icon: "/assets/img/icon/phone.svg",
-    info: ["(406) 555-0120"],
+    info: ["(+91) 555-0120123"],
   },
   {
     label: "Open Hour",

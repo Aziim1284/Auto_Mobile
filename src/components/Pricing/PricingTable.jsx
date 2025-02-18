@@ -5,8 +5,8 @@ import SectionHeading from "../SectionHeading/SectionHeading";
 const pricingData = [
   {
     title: "Total Car Care",
-    discountPrice: "$299.99",
-    mainPrice: "$399.99",
+    discountPrice: "₹2929.99",
+    mainPrice: "₹32199.99",
     options: [
       "Performance Tuning",
       "Exhaust System Installation",
@@ -18,8 +18,8 @@ const pricingData = [
   },
   {
     title: "Performance Enhancement",
-    discountPrice: "$599.99",
-    mainPrice: "$899.99",
+    discountPrice: "₹2599.99",
+    mainPrice: "₹89569.99",
     options: [
       "Performance Tuning",
       "Exhaust System Installation",
@@ -31,8 +31,8 @@ const pricingData = [
   },
   {
     title: "Fleet Maintenance",
-    discountPrice: "$399.99",
-    mainPrice: "$499.99",
+    discountPrice: "₹3399.99",
+    mainPrice: "₹45499.99",
     options: [
       "Performance Tuning",
       "Exhaust System Installation",

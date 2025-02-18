@@ -3,7 +3,7 @@ import { MoreBtn } from "../Button/Button";
 
 const blogData = {
   id: 1,
-  date: "17.10.2023",
+  date: "17.10.2024",
   title: "Driving with Confidence: The Crucial Role of Routine Car Maintenance",
   description:
     "Your car is more than just a means of getting from point A to point B; it's a reliable companion on your daily journey. Just like any dependable friend, your car requires regular care to ensure it remains in...",

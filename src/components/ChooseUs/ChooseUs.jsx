@@ -4,9 +4,9 @@ import { ButtonCommon } from "../Button/Button";
 
 const chooseUsData = {
   bgText: "Feature",
-  title: "why Choose Us",
-  desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's stan.",
-  img: "/assets/img/chooseus/choose-us.png",
+  title: "Why Choose Us",
+  desp: "We offer certified technicians, exceptional repair services, and a customer-first approach to ensure your car gets the best care. Our skilled team delivers reliable, high-quality results every time.",
+  img: "/assets/img/chooseus/chose-us.jpg",
   list: [
     { title: "Certified Technicians" },
     { title: "Comprehensive Repair Services" },
@@ -14,6 +14,7 @@ const chooseUsData = {
     { title: "Warranty on Repairs" },
   ],
 };
+
 
 const ChooseUs = () => {
   const { bgText, title, desp, list, img } = chooseUsData;

@@ -6,24 +6,25 @@ const serviceProgresData = [
     id: 1,
     number: 1,
     icon: "/assets/img/icon/speedome.svg",
-    title: "PERFOMANCE CHECK",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    title: "PERFORMANCE CHECK",
+    desp: "Our performance check ensures your car runs smoothly, identifying issues early to prevent breakdowns and improve efficiency.",
   },
   {
     id: 2,
     number: 2,
     icon: "/assets/img/icon/car-repair.svg",
     title: "AUTO REPAIR",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    desp: "Expert auto repair services to fix any issue with your car, from engine problems to bodywork, ensuring optimal performance.",
   },
   {
     id: 3,
     number: 3,
     icon: "/assets/img/icon/car.svg",
     title: "FLEET SERVICES",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    desp: "We offer specialized fleet services to keep your commercial vehicles in top condition, minimizing downtime and maximizing efficiency.",
   },
 ];
+
 
 const ServiceProgres = () => {
   return (

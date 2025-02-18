@@ -46,7 +46,7 @@ const ServicesSection = ({ styleTypeTwo }) => {
                 bgText={"Services"}
                 title={"Dedicated is Services"}
                 desp={
-                  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industr sstan. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum."
+                  "Our dedicated services focus on providing tailored car care solutions, ensuring that every repair and maintenance task is handled with precision and attention to detail, giving your vehicle the best treatment."
                 }
               />
               <div className="ak-height-50 ak-height-lg-10"></div>

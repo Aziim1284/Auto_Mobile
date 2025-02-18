@@ -2,14 +2,14 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import TextAnimation from "../../components/TextAnimation/TextAnimation";
 
-import footerLogo from "/assets/img/icon/footer-logo.svg";
+import footerLogo from "/assets/img/icon/logoo.png";
 
 const footerDataArray = [
   {
     className: "footer-info",
     dataAosDelay: "0",
-    phone: "(406) 555-0120",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is.",
+    phone: "(+91) 555-0120123",
+    desp: "Contact us for expert car care and reliable repair services. Our team is always ready to assist you with your vehicle needs, ensuring the best solutions.",
   },
   {
     className: "footer-menu-one",
@@ -122,7 +122,7 @@ const Footer = () => {
           <div className="primary-color-border"></div>
           <div className="ak-height-35 ak-height-lg-30"></div>
           <div className="footer-logo">
-            <img src={footerLogo} alt="footer-logo" />
+            <img src={footerLogo} alt="footer-logo" style={{height:"100px"}}/>
             <div className="ak-height-15 ak-height-lg-10"></div>
           </div>
           <div className="footer-content">

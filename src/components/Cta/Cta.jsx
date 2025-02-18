@@ -5,7 +5,7 @@ import { CtaBtn } from "../Button/Button";
 const ctaData = {
   title: "Get in touch with our experts",
   description:
-    " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    "Reach out to our experienced team for expert advice, prompt solutions, and high-quality car repairs. We're here to ensure your vehicle receives the best care possible.",
 };
 
 const Cta = () => {

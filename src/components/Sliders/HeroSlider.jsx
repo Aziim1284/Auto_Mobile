@@ -11,7 +11,7 @@ const sliderData = [
     maintitle: "Services",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_1.png",
+    img: "/assets/img/hero/repairing-banner-4.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const sliderData = [
     maintitle: "MAINTENANCE",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_2.png",
+    img: "/assets/img/hero/repairing-car-2.jpg",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const sliderData = [
     maintitle: "Services",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_1.png",
+    img: "/assets/img/hero/repairing-banner.jpg",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const sliderData = [
     maintitle: "MAINTENANCE",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_2.png",
+    img: "/assets/img/hero/repairing-car-2.jpg",
   },
 ];
 
@@ -155,7 +155,7 @@ const HeroSlider = () => {
                 <img src="/assets/img/icon/hero-email.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                example@email.com
+                azeembhatti091284@email.com
               </p>
             </div>
           </Link>
@@ -165,7 +165,7 @@ const HeroSlider = () => {
                 <img src="/assets/img/icon/heroaddress.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                123 Maple Street Toronto, On, Canada
+                284 Rajouri Street J&K, A, India
               </p>
             </div>
           </Link>
@@ -174,14 +174,14 @@ const HeroSlider = () => {
               <img src="/assets/img/icon/hero-time.svg" alt="..." />
             </div>
             <p className="ak-font-18 ak-white-color ak-semi-bold">
-              Sun - Thu: Open 27/7
+              Sun - Fri: Open 27/7
             </p>
           </div>
         </div>
       </div>
-      <div className="hero-pagination">
+      {/* <div className="hero-pagination">
         <div className="hero-swiper-pagination"></div>
-      </div>
+      </div> */}
       <div className="social-hero">
         <Link to="https://www.x.com/" className="social-icon1">
           <img src="/assets/img/icon/twiter.svg" alt="twitericon" />

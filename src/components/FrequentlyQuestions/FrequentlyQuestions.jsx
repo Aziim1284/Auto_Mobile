@@ -5,7 +5,7 @@ import accordionImg from "/assets/img/accordion-side-img.jpg";
 
 const contactDetails = {
   title: " Frequently Asked Questions",
-  phone: "(406) 555-0120",
+  phone: "(+91) 555-0120123",
   email: "example@email.com",
   address: "Rajouri, Jammu and kashmir , India, Alexandria, NY, USA",
   workingHours: "Sun - Thu: Open 24/7",

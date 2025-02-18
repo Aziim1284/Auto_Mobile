@@ -6,19 +6,19 @@ const blogPosts = [
   {
     id: 1,
     title: "The Importance of Regular Car Maintenance",
-    date: "17.10.2023",
+    date: "17.10.2024",
     imageUrl: "/assets/img/blog/blog_3.jpg",
   },
   {
     id: 2,
     title: "The Roadmap to Reliability: Essential Car Care Tips",
-    date: "05.11.2023",
+    date: "05.11.2024",
     imageUrl: "/assets/img/blog/blog_1.jpg",
   },
   {
     id: 3,
     title: "From Garage to Glory: Transform Your Vehicle's Health",
-    date: "12.11.2023",
+    date: "12.11.2024",
     imageUrl: "/assets/img/blog/blog_2.jpg",
   },
 ];

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 const ComingSoon = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date("2024-12-31") - +new Date();
+    const difference = +new Date("2025-12-31") - +new Date();
     const timeLeft = {
       months: Math.floor(difference / (1000 * 60 * 60 * 24 * 30)) || 0,
       days: Math.floor((difference / (1000 * 60 * 60 * 24)) % 30) || 0,
