@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "thumbnail": "/assets/img/gallery/gallery_3.jpg",
+        "thumbnail": "/assets/img/gallery/gallery_3.webp",
         "alt": "Photo",
         "orientation": "horizontal"
     },
@@ -37,7 +37,7 @@
     },
     {
         "id": 7,
-        "thumbnail": "/assets/img/gallery/gallery_7.jpg",
+        "thumbnail": "/assets/img/gallery/gallery_7.avif",
         "alt": "Photo",
         "orientation": ""
     }

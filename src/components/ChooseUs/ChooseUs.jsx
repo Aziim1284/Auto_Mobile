@@ -6,7 +6,7 @@ const chooseUsData = {
   bgText: "Highlights",
   title: "What Sets Us Apart",
   desp: "We take pride in delivering precision-driven auto care with modern diagnostic systems, skilled technicians, and an unwavering commitment to customer trust. Our service ensures peace of mind and peak vehicle performance.",
-  img: "/assets/img/chooseus/chose-us.jpg",
+  img: "/assets/img/chooseus/chose-us.avif",
   list: [
     { title: "Skilled Automotive Experts" },
     { title: "Complete Range of Auto Services" },

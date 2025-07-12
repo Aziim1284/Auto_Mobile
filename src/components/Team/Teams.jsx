@@ -8,7 +8,7 @@ const membersData = [
     id: 1,
     name: "Rajesh Kumar",
     title: "Chief Automotive Engineer",
-    image: "/assets/img/member/member_1.jpg",
+    image: "/assets/img/member/member_1.webp",
     desp: "Rajesh brings over 15 years of hands-on experience in automotive engineering, specializing in engine performance and drivetrain optimization. He leads with precision and passion, ensuring every vehicle runs at peak performance.",
     socialLinks: {
       linkedin: "https://www.linkedin.com/in/",

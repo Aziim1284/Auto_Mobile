@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Rajesh Kumar",
     "title": "Lead Mechanic",
-    "image": "/assets/img/member/member_1.jpg",
+    "image": "/assets/img/member/member_1.webp",
     "desp": "With over 15 years of hands-on experience, Rajesh leads the mechanical team with expertise in engine diagnostics, brake systems, and powertrain repairs.",
     "socialLinks": {
       "linkedin": "https://www.linkedin.com/",
@@ -75,7 +75,7 @@
     "id": 5,
     "name": "Arjun Reddy",
     "title": "Systems Specialist",
-    "image": "/assets/img/member/member_5.jpg",
+    "image": "/assets/img/member/member_5.webp",
     "desp": "Arjun brings deep technical knowledge in both electrical and mechanical systems, ensuring vehicles meet high performance and safety standards.",
     "socialLinks": {
       "linkedin": "https://www.linkedin.com/",
@@ -93,7 +93,7 @@
     "id": 6,
     "name": "Nehal Kapoor",
     "title": "Lead Mechanic",
-    "image": "/assets/img/member/member_6.jpg",
+    "image": "/assets/img/member/member_6.avif",
     "desp": "Nehal is a master technician with a passion for delivering high-quality repairs. He leads by example and ensures our team maintains top industry standards.",
     "socialLinks": {
       "linkedin": "https://www.linkedin.com/",

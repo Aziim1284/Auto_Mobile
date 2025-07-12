@@ -123,9 +123,9 @@
         "id": 6,
         "title": "Summer Car Care: Keep Your Vehicle Cool and Reliable",
         "date": "01.12.2024",
-        "imageUrl": "/assets/img/blog/blog_6.jpg",
+        "imageUrl": "/assets/img/blog/blog_6.webp",
         "blogdetails": {
-            "img": "/assets/img/blog/blog_6.jpg",
+            "img": "/assets/img/blog/blog_6.webp",
             "shortDesp": "Hot weather can challenge your car’s performance. This post walks you through summer-specific maintenance tips to keep your vehicle cool, efficient, and road-trip ready.",
             "itemlist": [
                 {
@@ -147,9 +147,9 @@
         "id": 7,
         "title": "Simple Habits to Help Your Car Last Longer",
         "date": "10.12.2024",
-        "imageUrl": "/assets/img/blog/blog_7.jpg",
+        "imageUrl": "/assets/img/blog/blog_7.webp",
         "blogdetails": {
-            "img": "/assets/img/blog/blog_7.jpg",
+            "img": "/assets/img/blog/blog_7.webp",
             "shortDesp": "Want your car to serve you for the long haul? Discover simple but effective practices that can add years to your vehicle’s lifespan.",
             "itemlist": [
                 {
@@ -219,9 +219,9 @@
         "id": 10,
         "title": "Future-Proofing Your Vehicle: Modern Maintenance Trends",
         "date": "25.12.2024",
-        "imageUrl": "/assets/img/blog/blog_1.jpg",
+        "imageUrl": "/assets/img/blog/blog_1.avif",
         "blogdetails": {
-            "img": "/assets/img/blog/blog_1.jpg",
+            "img": "/assets/img/blog/blog_1.avif",
             "shortDesp": "The automotive world is evolving fast. Here’s a look at how innovation is transforming the way we maintain and manage our vehicles.",
             "itemlist": [
                 {

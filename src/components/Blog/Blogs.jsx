@@ -13,7 +13,7 @@ const blogPosts = [
     id: 2,
     title: "The Roadmap to Reliability: Essential Car Care Tips",
     date: "05.11.2024",
-    imageUrl: "/assets/img/blog/blog_1.jpg",
+    imageUrl: "/assets/img/blog/blog_1.avif",
   },
   {
     id: 3,
