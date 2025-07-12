@@ -2,12 +2,12 @@ import React from "react";
 import { Link } from "react-router-dom";
 const personData = {
   id: 1,
-  name: "Michael Jack",
+  name: "Aziim Bh",
   title: "Founder of Company",
   quote:
     "“There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised”",
   image: "/assets/img/team/ceo.jpg",
-  videoLink: "https://www.youtube.com/watch?v=VcaAVWtP48A",
+  videoLink: "https://www.youtube.com",
 };
 
 const PersonDetails = () => {

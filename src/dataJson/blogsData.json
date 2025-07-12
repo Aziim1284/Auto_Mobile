@@ -1,288 +1,288 @@
 [
     {
         "id": 1,
-        "title": "The Importance of Regular Car Maintenance",
+        "title": "Why Routine Car Check-Ups Matter",
         "date": "17.10.2024",
         "imageUrl": "/assets/img/blog/blog_3.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_3.jpg",
-            "shortDesp": "Your car is more than just a means of getting from point A to point B; it's a reliable companion on your daily journey. Just like any dependable friend, your car requires regular care to ensure it remains in peak condition. In this blog post, we'll explore why routine car maintenance is not just a choice but a commitment to a safer, smoother, and more reliable driving experience",
+            "shortDesp": "Think of your vehicle as a trusted partner in your everyday commute. To keep that partnership strong, regular maintenance is a must. This article explains how consistent upkeep not only protects your investment but also ensures your safety and peace of mind.",
             "itemlist": [
                 {
-                    "title": "1. SAFETY ON THE ROAD:",
-                    "desp": "Safety should always be the top priority when it comes to your vehicle. Regular maintenance checks, including brake inspections, tire rotations, and fluid top-ups, are vital for preventing potential issues that could compromise your safety on the road. Don't wait for warning signs; be proactive in keeping your vehicle's safety features in optimal condition."
+                    "title": "1. ENSURING ROAD SAFETY:",
+                    "desp": "Keeping your vehicle safe means staying ahead of potential hazards. Routine brake inspections, fluid levels, and tire checks can prevent dangerous issues from developing while driving. Staying vigilant with maintenance helps avoid emergencies before they happen."
                 },
                 {
-                    "title": "2. SMOOTH OPERATION:",
-                    "desp": "Routine maintenance not only enhances safety but also ensures that your car operates smoothly. Components like engine oil, filters, and belts need regular attention to avoid breakdowns and costly repairs. By following a maintenance schedule, you can enjoy a smoother driving experience and minimize the risk of unexpected malfunctions."
+                    "title": "2. MAINTAINING PERFORMANCE:",
+                    "desp": "To enjoy a reliable and efficient drive, your car’s internal systems need regular attention. Changing engine oil, inspecting filters, and monitoring belts ensures that every ride is smooth and trouble-free."
                 },
                 {
-                    "title": "3. LONG-TERM RELIABILITY:",
-                    "desp": "Regular maintenance is key to preserving your vehicle's long-term reliability. By addressing minor issues before they escalate, you can extend the lifespan of critical components and reduce the likelihood of major breakdowns. Investing in routine maintenance now can save you time and money down the road by preventing costly repairs and premature vehicle replacement."
+                    "title": "3. PROTECTING VEHICLE LONGEVITY:",
+                    "desp": "Regular servicing allows you to fix minor issues early before they grow into major repairs. By taking preventive measures now, you extend your vehicle’s life and avoid expensive mechanical failures later."
                 }
             ]
         }
     },
     {
         "id": 2,
-        "title": "The Roadmap to Reliability: Essential Car Care Tips",
+        "title": "Essential Tips to Keep Your Car in Top Shape",
         "date": "05.11.2024",
         "imageUrl": "/assets/img/blog/blog_1.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_1.jpg",
-            "shortDesp": "Maintaining your car doesn't have to be a daunting task. In this blog post, we'll provide you with essential car care tips to keep your vehicle running smoothly and reliably.",
+            "shortDesp": "Caring for your car doesn't require expert skills—just a little attention and the right knowledge. Here's a simple guide with key maintenance tips that’ll keep your vehicle running like new.",
             "itemlist": [
                 {
-                    "title": "1. Regular Fluid Checks:",
-                    "desp": "Checking and topping up fluids such as engine oil, coolant, brake fluid, and windshield washer fluid regularly can prevent costly damage and keep your car running smoothly."
+                    "title": "1. Monitor Your Fluids:",
+                    "desp": "Make it a habit to check and refill your vehicle's vital fluids, including oil, transmission fluid, and coolant. Keeping them at proper levels avoids engine wear and ensures smooth operation."
                 },
                 {
-                    "title": "2. Tire Maintenance:",
-                    "desp": "Regularly inspecting tire pressure, tread depth, and overall condition can improve fuel efficiency, traction, and safety. Don't forget to rotate your tires regularly to ensure even wear."
+                    "title": "2. Tire Health Matters:",
+                    "desp": "Check tire pressure regularly and inspect tread depth. Well-maintained tires boost fuel efficiency and improve handling. Rotating your tires also prevents uneven wear."
                 },
                 {
-                    "title": "3. Battery Care:",
-                    "desp": "Keep your battery terminals clean and free of corrosion. Regularly test your battery's charge and consider replacing it every few years to prevent unexpected breakdowns."
+                    "title": "3. Battery Maintenance Basics:",
+                    "desp": "Clean terminals and secure connections keep your battery functioning properly. Replace your battery every few years to avoid unexpected starting problems, especially during seasonal changes."
                 }
             ]
         }
     },
     {
         "id": 3,
-        "title": "From Garage to Glory: Transform Your Vehicle's Health",
+        "title": "Revamp Your Ride: Steps to a Healthier Car",
         "date": "12.11.2024",
         "imageUrl": "/assets/img/blog/blog_2.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_2.jpg",
-            "shortDesp": "Transforming your vehicle's health is more than just a task; it's a journey. In this blog post, we'll guide you through steps to elevate your vehicle's performance and longevity.",
+            "shortDesp": "Boosting your car’s health starts with smart maintenance strategies. Learn how to enhance your vehicle's performance and reduce long-term repair costs by following these essential steps.",
             "itemlist": [
                 {
-                    "title": "1. Clean Air Filters:",
-                    "desp": "Regularly check and replace your air filters to ensure optimal engine performance and fuel efficiency. Clean filters improve air circulation, reducing strain on the engine."
+                    "title": "1. Replace Dirty Air Filters:",
+                    "desp": "A clogged air filter can choke your engine. Changing it regularly keeps air flowing smoothly, helping your engine breathe easier and work more efficiently."
                 },
                 {
-                    "title": "2. Engine Tune-Ups:",
-                    "desp": "Schedule regular engine tune-ups to keep your vehicle running smoothly. Tune-ups include checking spark plugs, ignition timing, and fuel injectors for optimal performance."
+                    "title": "2. Engine Tune-Up Tips:",
+                    "desp": "Routine engine tune-ups ensure critical components like spark plugs and fuel injectors are clean and functioning properly, leading to better mileage and performance."
                 },
                 {
-                    "title": "3. Suspension Maintenance:",
-                    "desp": "Inspect and replace worn suspension components to maintain ride comfort and stability. A well-maintained suspension system improves handling and reduces wear on other components."
+                    "title": "3. Keep Suspension in Check:",
+                    "desp": "Inspect shocks, struts, and bushings for wear and tear. A healthy suspension system means better control, improved comfort, and less strain on your vehicle’s frame."
                 }
             ]
         }
     },
     {
         "id": 4,
-        "title": "Maximizing Fuel Efficiency with Simple Car Maintenance",
+        "title": "Simple Ways to Boost Fuel Economy Through Maintenance",
         "date": "20.11.2024",
         "imageUrl": "/assets/img/blog/blog_4.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_4.jpg",
-            "shortDesp": "Want to save money on fuel? It starts with proper car maintenance. Discover simple yet effective ways to maximize fuel efficiency in this blog post.",
+            "shortDesp": "Want to reduce your fuel costs? Keeping your car in peak condition is the key. This post outlines practical maintenance habits that lead to better gas mileage and reduced emissions.",
             "itemlist": [
                 {
-                    "title": "1. Proper Tire Inflation:",
-                    "desp": "Maintain the recommended tire pressure to reduce rolling resistance and improve fuel efficiency. Under-inflated tires can decrease gas mileage and affect vehicle handling."
+                    "title": "1. Keep Tires Properly Inflated:",
+                    "desp": "Under-inflated tires create extra drag, leading to poor fuel performance. Keeping them at the manufacturer’s recommended pressure helps maximize every drop of fuel."
                 },
                 {
-                    "title": "2. Efficient Driving Habits:",
-                    "desp": "Avoid aggressive driving behaviors such as rapid acceleration and sudden braking, which can waste fuel. Smooth acceleration and maintaining a steady speed can improve fuel economy."
+                    "title": "2. Drive Smart, Save More:",
+                    "desp": "Gentle acceleration and steady cruising burn less fuel. Avoiding harsh starts and stops can significantly improve your vehicle’s fuel efficiency over time."
                 },
                 {
-                    "title": "3. Regular Maintenance:",
-                    "desp": "Follow the manufacturer's recommended maintenance schedule to keep your vehicle running efficiently. Routine checks and tune-ups can optimize engine performance and fuel economy."
+                    "title": "3. Follow the Service Schedule:",
+                    "desp": "Servicing your car at the recommended intervals keeps the engine in optimal condition. Clean filters, fresh oil, and well-tuned systems all contribute to lower fuel usage."
                 }
             ]
         }
     },
     {
         "id": 5,
-        "title": "Winter Car Care: Tips to Keep Your Vehicle Running Smoothly",
+        "title": "Cold Weather Car Tips: Stay Ready for Winter Roads",
         "date": "25.11.2024",
         "imageUrl": "/assets/img/blog/blog_5.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_5.jpg",
-            "shortDesp": "Prepare your car for the winter months ahead with these essential car care tips. From checking your antifreeze to installing winter tires, we've got you covered.",
+            "shortDesp": "Winter weather can take a toll on your vehicle. Prepare in advance with these car care tips to ensure reliable performance even in freezing conditions.",
             "itemlist": [
                 {
-                    "title": "1. Check Antifreeze Levels:",
-                    "desp": "Ensure that your vehicle's antifreeze levels are sufficient to prevent freezing in cold temperatures. Mix antifreeze with water according to the manufacturer's recommendations."
+                    "title": "1. Check Coolant & Antifreeze:",
+                    "desp": "Before temperatures drop, ensure your coolant mixture is winter-ready. Proper antifreeze levels help protect your engine from freezing and overheating."
                 },
                 {
-                    "title": "2. Install Winter Tires:",
-                    "desp": "Switch to winter tires for improved traction and handling on snow and ice. Winter tires have special tread patterns and rubber compounds designed for cold weather conditions."
+                    "title": "2. Equip Winter Tires:",
+                    "desp": "Install tires designed for snow and icy roads. Their special tread improves traction and control, making winter driving safer and more manageable."
                 },
                 {
-                    "title": "3. Maintain Visibility:",
-                    "desp": "Check and replace windshield wipers as needed to maintain visibility in snowy and icy conditions. Keep your windshield washer fluid topped up with a winter-grade solution."
+                    "title": "3. Keep Your Windshield Clear:",
+                    "desp": "Use winter-specific wiper fluid and replace old wipers to ensure good visibility in snow or sleet. A clear view is crucial when driving through harsh weather."
                 }
             ]
         }
     },
     {
         "id": 6,
-        "title": "The Ultimate Guide to Summer Car Maintenance",
+        "title": "Summer Car Care: Keep Your Vehicle Cool and Reliable",
         "date": "01.12.2024",
         "imageUrl": "/assets/img/blog/blog_6.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_6.jpg",
-            "shortDesp": "Keep your car in top condition during the summer months with these essential maintenance tips. From cooling system checks to tire care, we've got everything you need to know.",
+            "shortDesp": "Hot weather can challenge your car’s performance. This post walks you through summer-specific maintenance tips to keep your vehicle cool, efficient, and road-trip ready.",
             "itemlist": [
                 {
-                    "title": "1. Check Cooling System:",
-                    "desp": "Ensure that your vehicle's cooling system is functioning properly to prevent overheating in hot weather. Inspect coolant levels and look for signs of leaks or corrosion."
+                    "title": "1. Maintain the Cooling System:",
+                    "desp": "Check the radiator, hoses, and coolant levels regularly. A properly working cooling system helps prevent overheating during long, hot drives."
                 },
                 {
-                    "title": "2. Inspect Tires Regularly:",
-                    "desp": "Check tire pressure, tread depth, and overall condition regularly, especially before long trips. Overheated roads can increase tire wear and the risk of blowouts."
+                    "title": "2. Watch Your Tires:",
+                    "desp": "High temperatures can increase tire pressure. Monitor your tires closely for inflation, tread wear, and cracks to avoid heat-related blowouts."
                 },
                 {
-                    "title": "3. Test Air Conditioning:",
-                    "desp": "Test your car's air conditioning system to ensure it's blowing cold air and functioning efficiently. Recharge the refrigerant if necessary and replace air filters for optimal performance."
+                    "title": "3. Air Conditioning Efficiency:",
+                    "desp": "Ensure the AC is delivering cold air before summer hits. Recharge the refrigerant if needed and replace cabin air filters to improve airflow."
                 }
             ]
         }
     },
     {
         "id": 7,
-        "title": "How to Extend the Lifespan of Your Car",
+        "title": "Simple Habits to Help Your Car Last Longer",
         "date": "10.12.2024",
         "imageUrl": "/assets/img/blog/blog_7.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_7.jpg",
-            "shortDesp": "Want to keep your car running smoothly for years to come? Learn how to extend the lifespan of your vehicle with these practical maintenance tips and habits.",
+            "shortDesp": "Want your car to serve you for the long haul? Discover simple but effective practices that can add years to your vehicle’s lifespan.",
             "itemlist": [
                 {
-                    "title": "1. Follow Maintenance Schedule:",
-                    "desp": "Adhere to the manufacturer's recommended maintenance schedule for your vehicle. Regular oil changes, fluid checks, and inspections can prevent premature wear and costly repairs."
+                    "title": "1. Stick to a Service Routine:",
+                    "desp": "Follow the recommended maintenance schedule to keep your engine and other systems in peak shape. Timely care prevents wear and breakdowns."
                 },
                 {
-                    "title": "2. Drive Wisely:",
-                    "desp": "Avoid aggressive driving behaviors such as hard braking and rapid acceleration, which can increase wear and tear on your vehicle. Drive smoothly and maintain a steady speed whenever possible."
+                    "title": "2. Practice Gentle Driving:",
+                    "desp": "Driving smoothly—avoiding hard braking or sudden acceleration—reduces wear on the engine, transmission, and brakes."
                 },
                 {
-                    "title": "3. Protect Exterior and Interior:",
-                    "desp": "Regularly wash and wax your car to protect the exterior paint from damage due to UV rays and environmental contaminants. Keep the interior clean and use protective covers to prevent wear and tear."
+                    "title": "3. Care for Appearance:",
+                    "desp": "Regular washing and waxing protects your car’s paint, while keeping the interior clean preserves resale value and comfort."
                 }
             ]
         }
     },
     {
         "id": 8,
-        "title": "Understanding Car Maintenance: What Every Driver Should Know",
+        "title": "Car Maintenance Basics Every Driver Should Master",
         "date": "15.12.2024",
         "imageUrl": "/assets/img/blog/blog_8.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_8.jpg",
-            "shortDesp": "Knowledge is power when it comes to car maintenance. Equip yourself with essential knowledge about vehicle systems, components, and maintenance procedures with this comprehensive guide.",
+            "shortDesp": "Understanding how your car works empowers you to take better care of it. Learn the key concepts behind effective vehicle maintenance.",
             "itemlist": [
                 {
-                    "title": "1. Basic Maintenance Tasks:",
-                    "desp": "Learn how to perform basic maintenance tasks such as checking fluid levels, replacing wiper blades, and changing light bulbs. Understanding these tasks can save you time and money on repairs."
+                    "title": "1. Learn Routine Tasks:",
+                    "desp": "Basic tasks like checking fluids, tire pressure, and light bulbs are easy to learn and help prevent common issues."
                 },
                 {
-                    "title": "2. Identifying Warning Signs:",
-                    "desp": "Familiarize yourself with common warning signs of potential issues such as strange noises, dashboard warning lights, and changes in performance. Early detection can prevent costly repairs and breakdowns."
+                    "title": "2. Watch for Early Warnings:",
+                    "desp": "Be alert to unusual sounds, vibrations, or dashboard indicators. Addressing problems early can save you from bigger repairs later."
                 },
                 {
-                    "title": "3. Importance of Regular Inspections:",
-                    "desp": "Understand the importance of regular inspections by a qualified mechanic. Inspections can uncover hidden issues and ensure that your vehicle remains safe and reliable on the road."
+                    "title": "3. Schedule Regular Checkups:",
+                    "desp": "Periodic inspections from a trusted mechanic help catch hidden issues and keep your vehicle safe and dependable."
                 }
             ]
         }
     },
     {
         "id": 9,
-        "title": "Top 10 Car Maintenance Tips for New Drivers",
+        "title": "Car Maintenance Tips Every First-Time Driver Needs",
         "date": "20.12.2024",
         "imageUrl": "/assets/img/blog/blog_9.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_9.jpg",
-            "shortDesp": "New to driving? Make sure you're prepared to take care of your vehicle with these top 10 car maintenance tips for new drivers. From checking fluids to changing tires, we've got you covered.",
+            "shortDesp": "Just got your license? Mastering these maintenance basics will help you keep your car in great shape and build good habits from day one.",
             "itemlist": [
                 {
-                    "title": "1. Know Your Vehicle:",
-                    "desp": "Take the time to familiarize yourself with your vehicle's owner's manual and understand basic maintenance procedures. Knowing your vehicle can help you identify and address issues more effectively."
+                    "title": "1. Get to Know Your Car:",
+                    "desp": "Spend time reading the owner's manual to understand your car’s unique features, service intervals, and warning indicators."
                 },
                 {
-                    "title": "2. Regular Oil Changes:",
-                    "desp": "Make sure to change your engine oil regularly according to the manufacturer's recommendations. Fresh oil helps lubricate engine components and prevent premature wear and tear."
+                    "title": "2. Change Oil on Time:",
+                    "desp": "Timely oil changes are crucial for engine health. Use the type of oil recommended by your manufacturer and stick to the interval."
                 },
                 {
-                    "title": "3. Check Tire Pressure:",
-                    "desp": "Monitor tire pressure regularly and maintain the recommended pressure levels. Properly inflated tires improve fuel efficiency, handling, and tire longevity."
+                    "title": "3. Keep Tires in Check:",
+                    "desp": "Proper tire pressure ensures better mileage and safer handling. Check them monthly and before long journeys."
                 }
             ]
         }
     },
     {
         "id": 10,
-        "title": "The Future of Car Maintenance: Trends to Watch",
+        "title": "Future-Proofing Your Vehicle: Modern Maintenance Trends",
         "date": "25.12.2024",
         "imageUrl": "/assets/img/blog/blog_1.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_1.jpg",
-            "shortDesp": "What does the future hold for car maintenance? Explore emerging trends and technologies shaping the automotive industry in this insightful blog post.",
+            "shortDesp": "The automotive world is evolving fast. Here’s a look at how innovation is transforming the way we maintain and manage our vehicles.",
             "itemlist": [
                 {
-                    "title": "1. Electric Vehicles:",
-                    "desp": "As electric vehicles (EVs) become more prevalent, car maintenance will evolve to accommodate their unique features and components. EVs require specialized maintenance such as battery diagnostics and software updates."
+                    "title": "1. Rise of Electric Vehicles:",
+                    "desp": "Electric vehicles bring lower maintenance demands but need specialized care for batteries and electronics. Staying updated is key."
                 },
                 {
-                    "title": "2. Predictive Maintenance:",
-                    "desp": "Advancements in sensor technology and data analytics enable predictive maintenance, which uses real-time data to anticipate and prevent vehicle issues before they occur. Predictive maintenance can minimize downtime and repair costs."
+                    "title": "2. Smarter Preventive Care:",
+                    "desp": "Predictive analytics from connected cars now help detect problems early. These systems reduce downtime and optimize performance."
                 },
                 {
-                    "title": "3. Remote Diagnostics:",
-                    "desp": "Remote diagnostics allow mechanics to access vehicle data and perform diagnostics remotely, reducing the need for physical inspections. This technology enables faster and more efficient maintenance procedures."
+                    "title": "3. Virtual Diagnostics:",
+                    "desp": "Remote vehicle diagnostics are becoming the norm, allowing technicians to analyze issues via apps—saving time and speeding up repairs."
                 }
             ]
         }
     },
     {
         "id": 11,
-        "title": "Car Maintenance Myths: What You Shouldn't Believe",
+        "title": "Common Car Maintenance Myths—Busted!",
         "date": "30.12.2024",
         "imageUrl": "/assets/img/blog/blog_2.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_2.jpg",
-            "shortDesp": "Separate fact from fiction with this debunking of common car maintenance myths. Don't be misled by misinformation; arm yourself with accurate knowledge to keep your vehicle in top condition.",
+            "shortDesp": "Don’t let outdated advice lead you astray. We’re breaking down the most persistent car care myths to help you make informed decisions.",
             "itemlist": [
                 {
-                    "title": "1. Myth: You Should Change Oil Every 3,000 Miles:",
-                    "desp": "Fact: The 3,000-mile rule is outdated. Follow your vehicle manufacturer's recommendations for oil change intervals, which are typically between 5,000 to 10,000 miles depending on driving conditions and oil type."
+                    "title": "1. Myth: Always Change Oil Every 3,000 Miles:",
+                    "desp": "Reality: Most modern cars can go 5,000–10,000 miles between oil changes. Always follow the interval in your owner’s manual."
                 },
                 {
-                    "title": "2. Myth: Premium Fuel is Always Better:",
-                    "desp": "Fact: Unless your vehicle specifically requires premium fuel, using regular unleaded gasoline is sufficient. Premium fuel provides no additional benefits and can be a waste of money."
+                    "title": "2. Myth: Premium Fuel Boosts Any Car’s Performance:",
+                    "desp": "Reality: If your car doesn’t require premium fuel, using it offers no added benefit and can cost you more at the pump."
                 },
                 {
-                    "title": "3. Myth: Letting Your Engine Idle Warms it Up Faster:",
-                    "desp": "Fact: Idling your engine to warm it up is unnecessary and wastes fuel. Modern engines warm up more efficiently when driven gently, so avoid prolonged idling and start driving after a brief warm-up period."
+                    "title": "3. Myth: Long Warm-Ups are Necessary in Winter:",
+                    "desp": "Reality: Today’s engines warm up quicker when driven gently. Idling wastes fuel and increases engine wear over time."
                 }
             ]
         }
     },
     {
         "id": 12,
-        "title": "DIY Car Maintenance: Save Money and Learn New Skills",
+        "title": "Learn Basic Car Repairs: Save Costs with DIY Maintenance",
         "date": "05.01.2024",
         "imageUrl": "/assets/img/blog/blog_3.jpg",
         "blogdetails": {
             "img": "/assets/img/blog/blog_3.jpg",
-            "shortDesp": "Interested in DIY car maintenance? Learn how to save money and gain valuable skills by performing basic car maintenance tasks yourself. From changing oil to replacing air filters, we'll show you how.",
+            "shortDesp": "DIY car maintenance is easier than you think. Here’s how you can build confidence, save on service bills, and keep your car in top condition by doing small tasks yourself.",
             "itemlist": [
                 {
-                    "title": "1. Oil Change:",
-                    "desp": "Changing your vehicle's oil is one of the most basic and essential maintenance tasks. With the right tools and instructions, you can save money and ensure your engine stays properly lubricated."
+                    "title": "1. Try Your Own Oil Change:",
+                    "desp": "Changing oil is a great way to start learning. Just follow step-by-step instructions and ensure you dispose of the used oil properly."
                 },
                 {
-                    "title": "2. Air Filter Replacement:",
-                    "desp": "Replacing your air filter is a simple task that can improve engine performance and fuel efficiency. Check your owner's manual for guidance on how often to replace the air filter."
+                    "title": "2. Swap Out the Air Filter:",
+                    "desp": "Replacing your engine air filter takes just minutes. It boosts performance and is often cheaper than paying a shop to do it."
                 },
                 {
-                    "title": "3. Brake Pad Inspection:",
-                    "desp": "Inspecting and replacing brake pads is crucial for maintaining stopping power and safety. Learn how to check your brake pads for wear and replace them when necessary."
+                    "title": "3. Check and Replace Brake Pads:",
+                    "desp": "If you're comfortable using basic tools, inspecting your brake pads and replacing worn ones can greatly improve vehicle safety."
                 }
             ]
         }

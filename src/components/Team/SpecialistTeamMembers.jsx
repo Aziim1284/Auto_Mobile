@@ -8,20 +8,20 @@ const speciaList = [
   {
     id: 1,
     img: "/assets/img/service/service_1.jpg",
-    title: "Performance Upgrades and Customization",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    title: "Custom Performance Tuning",
+    desp: "Unlock your vehicle’s full potential with our expert performance tuning and customization. From engine remapping to upgraded exhausts, we ensure enhanced speed, power, and fuel efficiency.",
   },
   {
     id: 2,
     img: "/assets/img/service/service_2.jpg",
-    title: "Engine Diagnostics and Repair",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    title: "Advanced Engine Diagnostics",
+    desp: "Our cutting-edge diagnostic tools detect engine issues with precision. Whether it’s a warning light or performance drop, we identify the root cause and offer accurate, effective repairs.",
   },
   {
     id: 3,
     img: "/assets/img/service/service_3.jpg",
-    title: "Tire Services",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+    title: "Tire Maintenance & Alignment",
+    desp: "Stay safe and enjoy smooth rides with our complete tire care—rotation, balancing, alignment, and puncture repair. We use industry-best equipment to extend your tire lifespan.",
   },
 ];
 

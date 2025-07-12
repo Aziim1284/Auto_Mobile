@@ -1,9 +1,9 @@
 import Counter from "./Counter";
 
 const counters = [
-  { id: 1, number: 10, text: "YEARS OF SERVICE" },
-  { id: 2, number: 256, text: "HAPPY CUSTOMERS" },
-  { id: 3, number: 112, text: "CUSTOMER SATISFACTION" },
+  { id: 1, number: 10, text: "YEARS OF TRUSTED EXPERIENCE" },
+  { id: 2, number: 256, text: "VEHICLES SERVICED WITH CARE" },
+  { id: 3, number: 112, text: "SATISFACTION RATE ACHIEVED" },
 ];
 
 const AutoCounter = () => {

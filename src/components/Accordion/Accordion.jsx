@@ -3,30 +3,30 @@ import AccordionItem from "./AccordionItem";
 
 const faqItems = [
   {
-    title: "What services do you offer at your auto repair shop?",
+    title: "What types of auto repair services do you provide?",
     content:
-      "Yes, we provide a warranty on our auto repairs. Please contact us for more details.",
+      "We offer a wide range of services including engine diagnostics, brake repair, tire services, oil changes, wheel alignment, and complete vehicle inspections.",
   },
   {
-    title: "How often should I get my car serviced?",
+    title: "How frequently should I service my vehicle?",
     content:
-      "It is recommended to service your car every 5,000 to 7,500 miles, or as specified in your vehicle’s manual.",
+      "Most vehicles should be serviced every 5,000 to 7,500 kilometers or as recommended in your owner's manual. Regular service keeps your car running smoothly and safely.",
   },
   {
-    title: "How do I know if my brakes need to be replaced?",
+    title: "What are common signs that my brakes need attention?",
     content:
-      "If you hear a squealing noise, feel vibrations, or notice that it takes longer to stop, it may be time to replace your brakes.",
+      "Squeaking sounds, grinding noise, vibrations during braking, or increased stopping distance are signs your brake system needs to be inspected or repaired.",
   },
   {
-    title: "What steps can I take between services?",
+    title: "What basic maintenance should I do between service visits?",
     content:
-      "Regularly check tire pressure, oil levels, and keep the car clean. Ensure timely maintenance as per the vehicle’s manual.",
+      "You should check engine oil, coolant, brake fluid, tire pressure, and battery condition regularly. Keeping your car clean and scheduling timely service is also important.",
   },
   {
-    title: "Do you provide warranty on your auto repairs?",
+    title: "Is there a warranty on repairs and parts?",
     content:
-      "Yes, we provide a warranty on our auto repairs. Please contact us for more details.",
-  },
+      "Yes, we offer a warranty on most repair services and parts. Duration and terms vary depending on the type of service—please contact us for full details.",
+  }
 ];
 
 const Accordion = () => {

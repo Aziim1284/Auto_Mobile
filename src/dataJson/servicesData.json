@@ -1,32 +1,32 @@
 [
-    {
-        "id": 1,
-        "img": "/assets/img/service/service_1.jpg",
-        "title": "Performance Upgrades and Customization",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan."
-    },
-    {
-        "id": 2,
-        "img": "/assets/img/service/service_2.jpg",
-        "title": "Engine Diagnostics and Repair",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan."
-    },
-    {
-        "id": 3,
-        "img": "/assets/img/service/service_3.jpg",
-        "title": "Tire Services",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan."
-    },
-    {
-        "id": 4,
-        "img": "/assets/img/service/service_4.jpg",
-        "title": "Brake Repair and Maintenance",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan."
-    },
-    {
-        "id": 5,
-        "img": "/assets/img/service/service_5.jpg",
-        "title": "Oil Change Services",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan."
-    }
+  {
+    "id": 1,
+    "img": "/assets/img/service/service_1.jpg",
+    "title": "Custom Auto Builds & Performance Tuning",
+    "desp": "Take your car to the next level with our expert performance tuning and custom build solutions, from turbo upgrades to body styling enhancements."
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/service/service_2.jpg",
+    "title": "Engine Troubleshooting & Precision Repair",
+    "desp": "We diagnose and fix engine problems using cutting-edge tools to ensure optimal power, fuel efficiency, and engine health."
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/service/service_3.jpg",
+    "title": "Complete Tire Care & Support",
+    "desp": "Stay road-ready with our comprehensive tire services—rotation, balancing, alignment, and expert recommendations for replacements."
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/service/service_4.jpg",
+    "title": "Brake Inspection & Repair Solutions",
+    "desp": "Ensure maximum safety with thorough brake inspections, fluid checks, and reliable pad or rotor replacements by our certified technicians."
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/service/service_5.jpg",
+    "title": "Premium Oil & Filter Change Packages",
+    "desp": "Protect your engine with our high-quality oil change service, including filter replacement and fluid level inspection for lasting performance."
+  }
 ]

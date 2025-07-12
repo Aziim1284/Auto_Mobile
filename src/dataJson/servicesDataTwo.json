@@ -1,56 +1,56 @@
 [
-    {
-        "id": 1,
-        "title": "Diagnostic Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-1.svg"
-    },
-    {
-        "id": 2,
-        "title": "Routine Maintenance",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-2.svg"
-    },
-    {
-        "id": 3,
-        "title": "Brake System Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-3.svg"
-    },
-    {
-        "id": 4,
-        "title": "Engine Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-4.svg"
-    },
-    {
-        "id": 5,
-        "title": "Transmission Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-5.svg"
-    },
-    {
-        "id": 6,
-        "title": "Electrical System",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-6.svg"
-    },
-    {
-        "id": 7,
-        "title": "Steering Repair",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-7.svg"
-    },
-    {
-        "id": 8,
-        "title": "Heating Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-8.svg"
-    },
-    {
-        "id": 9,
-        "title": "Tire Services",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "icon": "/assets/img/icon/service-icon-9.svg"
-    }
+  {
+    "id": 1,
+    "title": "Advanced Vehicle Diagnostics",
+    "description": "We use cutting-edge diagnostic tools to detect and resolve hidden issues quickly, ensuring precise repairs and optimal performance.",
+    "icon": "/assets/img/icon/service-icon-1.svg"
+  },
+  {
+    "id": 2,
+    "title": "Comprehensive Vehicle Maintenance",
+    "description": "Stay ahead of costly repairs with routine services like oil changes, filter replacements, fluid checks, and tire inspections.",
+    "icon": "/assets/img/icon/service-icon-2.svg"
+  },
+  {
+    "id": 3,
+    "title": "Brake Inspection & Restoration",
+    "description": "Ensure road safety with our expert brake services, including pad replacements, rotor resurfacing, and hydraulic system checks.",
+    "icon": "/assets/img/icon/service-icon-3.svg"
+  },
+  {
+    "id": 4,
+    "title": "Precision Engine Repair",
+    "description": "From tune-ups to full engine rebuilds, our certified technicians ensure your engine delivers peak performance and longevity.",
+    "icon": "/assets/img/icon/service-icon-4.svg"
+  },
+  {
+    "id": 5,
+    "title": "Transmission Repair & Replacement",
+    "description": "We handle all transmission issues—fluid leaks, slipping gears, or complete rebuilds—to restore smooth shifting and power delivery.",
+    "icon": "/assets/img/icon/service-icon-5.svg"
+  },
+  {
+    "id": 6,
+    "title": "Electrical System Services",
+    "description": "Diagnose and repair electrical faults, battery issues, wiring problems, and lighting malfunctions with our expert technicians.",
+    "icon": "/assets/img/icon/service-icon-6.svg"
+  },
+  {
+    "id": 7,
+    "title": "Steering & Suspension Repairs",
+    "description": "Improve handling and ride comfort with steering and suspension services, including power steering fixes and shock replacements.",
+    "icon": "/assets/img/icon/service-icon-7.svg"
+  },
+  {
+    "id": 8,
+    "title": "Climate Control & Heating Services",
+    "description": "Stay comfortable with expert A/C and heating diagnostics, refrigerant recharges, and blower or heater core repairs.",
+    "icon": "/assets/img/icon/service-icon-8.svg"
+  },
+  {
+    "id": 9,
+    "title": "Full-Service Tire Care",
+    "description": "From installation to alignment and puncture repair, we keep your tires in top condition for safety and performance.",
+    "icon": "/assets/img/icon/service-icon-9.svg"
+  }
 ]

@@ -2,19 +2,19 @@ import { useState } from "react";
 
 const tabContents = [
   {
-    title: "Mission",
+    title: "Our Commitment",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "We are dedicated to providing dependable automotive solutions with an emphasis on safety, precision, and customer-first service. Every repair and tune-up reflects our promise to care for your vehicle as if it were our own.",
   },
   {
-    title: "Vision",
+    title: "Future Goals",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. been the industry's stanLorem Ipsum has.",
+      "Looking ahead, we aim to lead the automotive service industry by integrating cutting-edge technology, expanding our expert team, and continually raising the bar for service excellence and customer experience.",
   },
   {
-    title: "History",
+    title: "Our Journey",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan.",
+      "What began as a modest workshop has evolved into a full-scale automotive service center. Our growth is powered by loyal customers, expert mechanics, and a clear vision to always deliver more than expected.",
   },
 ];
 

@@ -8,19 +8,20 @@ import testimaonialBgImg from "/assets/img/bg/testimaonial-img-bg.png";
 const sliderData = [
   {
     id: 1,
-    name: "Roberts Bush",
-    from: "From Canada",
-    desp: "“There are many variations of passages of Lorem Ipsum available,butthe majority have suffered alteration in some form injected humour, or randomised”",
+    name: "Amit Sharma",
+    from: "From New Delhi, India",
+    desp: "“The service was top-notch! My car feels brand new, and the team was polite, professional, and very helpful throughout.”",
     img: "/assets/img/testmaonail/testimaonial.png",
   },
   {
     id: 2,
-    name: "Butthe Bush",
-    from: "From Canada",
-    desp: "“There are many variations of passages of Lorem Ipsum available,butthe majority have suffered alteration in some form injected humour, or randomised”",
+    name: "Priya Menon",
+    from: "From Kochi, India",
+    desp: "“Great experience with the staff. They clearly explained the issues and repaired my vehicle efficiently. Highly recommended!”",
     img: "/assets/img/testmaonail/testmaonail_1.png",
   },
 ];
+
 
 const Testimonial = () => {
   const swiperRef = useRef(null);

@@ -4,45 +4,46 @@ import SectionHeading from "../SectionHeading/SectionHeading";
 
 const pricingData = [
   {
-    title: "Total Car Care",
-    discountPrice: "₹2929.99",
-    mainPrice: "₹32199.99",
+    title: "Essential Car Service",
+    discountPrice: "₹2,999",
+    mainPrice: "₹3,999",
     options: [
-      "Performance Tuning",
-      "Exhaust System Installation",
-      "Performance Brake Upgrade",
-      "Interior Exterior Detailing",
+      "Basic Engine Check-up",
+      "Oil & Filter Change",
+      "Tire Rotation",
+      "Interior Cleaning",
     ],
     isActive: false,
     aosDelay: 0,
   },
   {
-    title: "Performance Enhancement",
-    discountPrice: "₹2599.99",
-    mainPrice: "₹89569.99",
+    title: "Premium Performance Care",
+    discountPrice: "₹6,499",
+    mainPrice: "₹8,999",
     options: [
-      "Performance Tuning",
-      "Exhaust System Installation",
-      "Performance Brake Upgrade",
-      "Interior Exterior Detailing",
+      "Full Car Diagnostics",
+      "Brake & Suspension Tune-up",
+      "Engine Tuning",
+      "Complete Detailing (Interior + Exterior)",
     ],
     isActive: true,
     aosDelay: 50,
   },
   {
-    title: "Fleet Maintenance",
-    discountPrice: "₹3399.99",
-    mainPrice: "₹45499.99",
+    title: "Corporate Fleet Maintenance",
+    discountPrice: "₹12,999",
+    mainPrice: "₹15,999",
     options: [
-      "Performance Tuning",
-      "Exhaust System Installation",
-      "Performance Brake Upgrade",
-      "Interior Exterior Detailing",
+      "Monthly Fleet Health Reports",
+      "Priority Service Scheduling",
+      "Routine Maintenance",
+      "On-Site Pickup & Drop",
     ],
     isActive: false,
     aosDelay: 100,
   },
 ];
+
 
 const PricingTable = ({ type }) => {
   return (

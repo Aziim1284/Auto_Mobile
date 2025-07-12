@@ -85,18 +85,16 @@ const ContactForm = () => {
           data-aos-delay="700"
         >
           <h2 className="contact-form-title ak-white-color text-uppercase">
-            Contact Us
+            Get in Touch
           </h2>
           <p>Home / Contact</p>
         </div>
         <div className="ak-height-25 ak-height-lg-20"></div>
         <div className="contact-form" data-aos="fade-up" data-aos-delay="750">
           <div>
-            <h5 className="mb-3">How can we help?</h5>
+            <h5 className="mb-3">We’re Here to Help</h5>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humour
+              Have a question or need assistance with your vehicle? Reach out to our expert team—we’re ready to provide the support and answers you need.
             </p>
             <div className="ak-height-45 ak-height-lg-30"></div>
           </div>
@@ -135,7 +133,7 @@ const ContactForm = () => {
             <div className="from-inputs">
               <div className="type_1">
                 <label htmlFor="topic" className="form-label">
-                  Which topic best matches your question?
+                  What Can We Help You With?
                 </label>
                 <input
                   type="text"
@@ -192,6 +190,7 @@ const ContactForm = () => {
         </div>
       </div>
     </div>
+
   );
 };
 

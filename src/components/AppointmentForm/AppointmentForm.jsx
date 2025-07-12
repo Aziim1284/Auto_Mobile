@@ -76,11 +76,10 @@ const AppointmentForm = () => {
           data-aos-delay="700"
         >
           <h2 className="contact-form-title ak-white-color text-uppercase">
-            Request for an appointment
+            Book Your Service Appointment
           </h2>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's stan.
+            Get expert auto care at your convenience. Fill out the form below to schedule an appointment with our certified technicians — quick, easy, and reliable!
           </p>
         </div>
         <div className="ak-height-25 ak-height-lg-20"></div>

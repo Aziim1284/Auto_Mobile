@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 import { CtaBtn } from "../Button/Button";
 
 const ctaData = {
-  title: "Get in touch with our experts",
+  title: "Connect with Our Car Care Experts",
   description:
-    "Reach out to our experienced team for expert advice, prompt solutions, and high-quality car repairs. We're here to ensure your vehicle receives the best care possible.",
+    "Have questions or need assistance? Talk to our skilled professionals for trusted advice, quick service, and top-notch car repair solutions. We're committed to keeping your vehicle in perfect shape.",
 };
 
 const Cta = () => {

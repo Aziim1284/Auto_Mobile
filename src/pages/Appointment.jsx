@@ -11,13 +11,12 @@ const Appointment = () => {
       <CommonPageHero title={"Appointment"} />
       <AppointmentForm />
       <div className="ak-height-125 ak-height-lg-80"></div>
-
       <SectionHeading
         type={true}
         bgText={"PROCESS"}
-        title={"PROCESS / FEATURE"}
+        title={"OUR WORK PROCESS"}
         desp={
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+          "We follow a streamlined, customer-focused process—from inspection and diagnostics to expert repair and final quality checks—to ensure your vehicle receives the care it deserves."
         }
       />
       <ServiceProgres />

@@ -5,7 +5,7 @@ const contactData = [
   {
     label: "Mail",
     icon: "/assets/img/icon/email.svg",
-    info: ["aziimbhatti613@gmail.com", "aziimbhatti613@gmail.com"],
+    info: ["xxx@gmail.com", "contact@madzy.com"],
   },
   {
     label: "Location",

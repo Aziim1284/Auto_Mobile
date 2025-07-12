@@ -3,17 +3,18 @@ import SectionHeading from "../SectionHeading/SectionHeading";
 import { ButtonCommon } from "../Button/Button";
 
 const chooseUsData = {
-  bgText: "Feature",
-  title: "Why Choose Us",
-  desp: "We offer certified technicians, exceptional repair services, and a customer-first approach to ensure your car gets the best care. Our skilled team delivers reliable, high-quality results every time.",
+  bgText: "Highlights",
+  title: "What Sets Us Apart",
+  desp: "We take pride in delivering precision-driven auto care with modern diagnostic systems, skilled technicians, and an unwavering commitment to customer trust. Our service ensures peace of mind and peak vehicle performance.",
   img: "/assets/img/chooseus/chose-us.jpg",
   list: [
-    { title: "Certified Technicians" },
-    { title: "Comprehensive Repair Services" },
-    { title: "900 Five Star Reviews" },
-    { title: "Warranty on Repairs" },
+    { title: "Skilled Automotive Experts" },
+    { title: "Complete Range of Auto Services" },
+    { title: "Trusted by Over 900 Happy Customers" },
+    { title: "Assured Quality with Every Repair" },
   ],
 };
+
 
 
 const ChooseUs = () => {

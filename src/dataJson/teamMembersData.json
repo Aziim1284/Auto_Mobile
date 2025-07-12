@@ -1,110 +1,110 @@
 [
-    {
-        "id": 1,
-        "name": "Darrell T. Beedle",
-        "title": "Lead Mechanic",
-        "image": "/assets/img/member/member_1.jpg",
-        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form injected humour, or randomised.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "title": "Lead Mechanic",
+    "image": "/assets/img/member/member_1.jpg",
+    "desp": "With over 15 years of hands-on experience, Rajesh leads the mechanical team with expertise in engine diagnostics, brake systems, and powertrain repairs.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
     },
-    {
-        "id": 2,
-        "name": "Michael Jack",
-        "title": "Service Advisor",
-        "image": "/assets/img/member/member_2.jpg",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
-    },
-    {
-        "id": 3,
-        "name": "Cathy Sparkman",
-        "title": "Diagnostic Technician",
-        "image": "/assets/img/member/member_3.jpg",
-        "desp": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
-    },
-    {
-        "id": 4,
-        "name": "Charles G. Macdonald",
-        "title": "System Technician",
-        "image": "/assets/img/member/member_4.jpg",
-        "desp": "Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
-    },
-    {
-        "id": 5,
-        "name": "Anthony M. Lass",
-        "title": "Systems Specialist",
-        "image": "/assets/img/member/member_5.jpg",
-        "desp": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
-    },
-    {
-        "id": 6,
-        "name": "Tyra Crawford",
-        "title": "Lead Mechanic",
-        "image": "/assets/img/member/member_6.jpg",
-        "desp": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage.",
-        "socialLinks": {
-            "linkedin": "https://www.facebook.com/",
-            "facebook": "https://bd.linkedin.com/",
-            "twitter": "https://www.instagram.com/"
-        },
-        "contact": {
-            "address": "2118 Thornridge Cir, 35624",
-            "email": "example@example.com",
-            "phone": "+7 (903) 679-96-15",
-            "website": "www.website.com"
-        }
+    "contact": {
+      "address": "56 MG Road, Bengaluru, Karnataka 560001",
+      "email": "rajesh.kumar@autocare.in",
+      "phone": "+91 98765 0000",
+      "website": "#"
     }
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "title": "Service Advisor",
+    "image": "/assets/img/member/member_2.jpg",
+    "desp": "Priya is the bridge between customers and technicians. She ensures smooth communication and helps customers make informed service decisions.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
+    },
+    "contact": {
+      "address": "101 Park Street, Kolkata, West Bengal 700016",
+      "email": "priya.mehta@autocare.in",
+      "phone": "+91 99887 1111",
+      "website": "#"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Amit Sharma",
+    "title": "Diagnostic Technician",
+    "image": "/assets/img/member/member_3.jpg",
+    "desp": "Amit specializes in using advanced diagnostic equipment to identify issues with precision, reducing downtime and ensuring accurate repairs.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
+    },
+    "contact": {
+      "address": "78 Sector 18, Noida, Uttar Pradesh 201301",
+      "email": "amit.sharma@autocare.in",
+      "phone": "+91 98123 2222",
+      "website": "#"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sneha Desai",
+    "title": "System Technician",
+    "image": "/assets/img/member/member_4.jpg",
+    "desp": "Sneha is skilled in modern vehicle electronics and system diagnostics, playing a key role in keeping today's tech-driven cars running flawlessly.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
+    },
+    "contact": {
+      "address": "12 FC Road, Pune, Maharashtra 411004",
+      "email": "sneha.desai@autocare.in",
+      "phone": "+91 97777 3333",
+      "website": "#"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Arjun Reddy",
+    "title": "Systems Specialist",
+    "image": "/assets/img/member/member_5.jpg",
+    "desp": "Arjun brings deep technical knowledge in both electrical and mechanical systems, ensuring vehicles meet high performance and safety standards.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
+    },
+    "contact": {
+      "address": "23 Banjara Hills, Hyderabad, Telangana 500034",
+      "email": "arjun.reddy@autocare.in",
+      "phone": "+91 91234 4444",
+      "website": "#"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nehal Kapoor",
+    "title": "Lead Mechanic",
+    "image": "/assets/img/member/member_6.jpg",
+    "desp": "Nehal is a master technician with a passion for delivering high-quality repairs. He leads by example and ensures our team maintains top industry standards.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://www.twitter.com/"
+    },
+    "contact": {
+      "address": "34 Green Park, New Delhi 110016",
+      "email": "nehal.kapoor@autocare.in",
+      "phone": "+91 90909 55555",
+      "website": "#"
+    }
+  }
 ]

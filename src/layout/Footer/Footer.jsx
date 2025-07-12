@@ -78,12 +78,11 @@ const Footer = () => {
               data-aos-delay="200"
               data-aos-duration="1000"
             >
-              Newslette
+              Newsletter
             </div>
             <div className="footer-heading-email">
               <h5 className="email-title">
-                Sign up for our newsletter to get weekly updates on exclusive
-                offers and discounts!
+                Subscribe to our newsletter and be the first to receive weekly updates on special deals and exclusive savings!
               </h5>
               <div>
                 <p id="ak-alert-footer">{message}</p>
@@ -122,7 +121,7 @@ const Footer = () => {
           <div className="primary-color-border"></div>
           <div className="ak-height-35 ak-height-lg-30"></div>
           <div className="footer-logo">
-            <img src={footerLogo} alt="footer-logo" style={{height:"100px"}}/>
+            <img src={footerLogo} alt="footer-logo" style={{ height: "100px" }} />
             <div className="ak-height-15 ak-height-lg-10"></div>
           </div>
           <div className="footer-content">
